@@ -1,0 +1,7 @@
+{
+  "name": "mobilePostsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
