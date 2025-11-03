@@ -1,4 +1,4 @@
-# 📱 mobilePostsApp – Aplikasi CRUD Sederhana dengan Ionic + Angular
+# 📱 mobilePostsApp – Aplikasi CRUD Ionic + Angular
 
 Aplikasi mobile berbasis **Ionic Framework** dan **Angular** untuk mengelola postingan (CRUD: Create, Read, Update, Delete).  
 Dibangun menggunakan pendekatan **standalone components** dan **Capacitor** untuk kompatibilitas lintas platform (Android, iOS, Web).
